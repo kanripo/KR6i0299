@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘百福相經
+#+DATE: 2015-08-30 20:15:44.101454
+#+PROPERTY: JUAN 0
